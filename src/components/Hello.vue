@@ -14,7 +14,7 @@
     <div class="breed-info">
       <img :src="selectedBreed.img">
     </div>
-
+    <!-- test comment -->
     <!-- <ul v-if="errors && errors.length">
       <li v-for="error of errors">
         {{error.message}}
